@@ -1,4 +1,4 @@
-### Hi there 👋
+![pusheen](https://github.com/ponchicken/ponchicken/blob/master/small-ponsheen.gif?raw=true)
 
 <!--
 **ponchicken/ponchicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
